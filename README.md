@@ -1,2 +1,2 @@
 # RUNO
-#http://runo.infinityfreeapp.com/
+http://runo.infinityfreeapp.com/
